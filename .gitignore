@@ -1,0 +1,15 @@
+*.sql
+*.pyc
+*.pyo
+*.db
+*~
+.*
+__pycache__
+/*.egg-info/
+MANIFEST
+/dist
+
+!.gitignore
+!.isort.cfg
+!.travis.yml
+!.gitlab-ci.yml
